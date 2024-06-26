@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tarcantan
-- 👀 I’m interested in programming and 3d
-- 🌱 I’m currently learning c#
+- 👀 I’m interested in coding and outsourcing
+- 🌱 I’m currently learning UE5 & Godot
 - 💞️ I’m looking to collaborate on video games
 - 📫 How to reach me : tan.tarcan@gmail.com
 
